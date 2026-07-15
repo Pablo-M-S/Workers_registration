@@ -4,6 +4,7 @@
 using namespace std;
 
 struct workers{
+public:
 string name;
 int age;
 double height;
